@@ -62,3 +62,4 @@ if player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
     lastChar = player.Character
     runChatInjection()
 end
+-- enjoy script
